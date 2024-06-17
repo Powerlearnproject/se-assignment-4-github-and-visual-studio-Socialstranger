@@ -26,16 +26,16 @@ GitHub Actions:
 Explain what GitHub Actions are and how they can be used to automate workflows. Provide an example of a simple CI/CD pipeline using GitHub Actions.
 Introduction to Visual Studio:
 
-What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
+what is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?
 Integrating GitHub with Visual Studio:
 
 Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?
 Debugging in Visual Studio:
 
-Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
+Explain the debugging  tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?
 Collaborative Development using GitHub and Visual Studio:
 
-Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
+ Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 
 
 Submission Guidelines:
